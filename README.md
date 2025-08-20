@@ -27,5 +27,6 @@ It was tested using **Postman**.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bookstore-management-php-crud.git
+   git clone https://github.com/your-username/CRUD_API_Bookstore_management_project
+.git
    ```
